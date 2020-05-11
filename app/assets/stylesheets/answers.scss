@@ -1,0 +1,19 @@
+// Place all the styles related to the answers controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+.answer {
+  margin: 0 auto;
+  width: 600px;
+  font-size: 24px;
+  background-color: #ffd43e;
+  color: white;
+  &:hover {
+    color: black;
+  }
+}
+
+.link {
+  width: 600px;
+  margin: 0 auto;
+}
